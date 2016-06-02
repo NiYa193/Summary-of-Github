@@ -4,10 +4,8 @@
 
 </p>
 <li>This summary is summarizing from "Liaoxuefeng's github lesson".</li>
-<li>The website of Liao's lesson is</li>
-<pre>
-	site:     http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000
-</pre>
+<li>The website of Liao's lesson is <a href="http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000">寥雪峰的Git教程</a> </li>
+
 <li>As recommended,it is better to read the raw lesson before download the summary.</li>
 
 </p>
