@@ -14,7 +14,7 @@
 <li>I learn it from may/15/2016.</li>
 <li>And I learn the Python the same way.</li>
 <li>To test whether the network is reachable<li>
-<h2>关于萌萌的作者</h2>
+<h2>关于作者</h2>
 <pre>
    <code class="lang-javascript">  
     Name  : NiYa
